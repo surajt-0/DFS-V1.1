@@ -1,4 +1,4 @@
-# Digital Forensics Browser Suite -- Web Edition
+# Digital Forensics Browser Suite -- Desktop App (automated file upload evidence)
 
 A Django web application for examining browser artifacts (history, saved
 logins, cookies, downloads, and cache metadata) across Chrome, Edge, Brave,
